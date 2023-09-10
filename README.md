@@ -16,3 +16,7 @@ FULL STACK KANBAN APP ("Trello Based")
     - Express: https://expressjs.com/
 
 
+    ![image](https://github.com/priyank-1/kanban_app/assets/114421577/2e9812d2-25da-4008-bf5a-ebfce1bebcd8)
+
+
+
